@@ -12,7 +12,7 @@
 
 * This is the link to the live demo of the website - 
 
-## Screenshots of Dashboard
+## Screenshots
 <img width="1080" src="">
 
 ### Built With
