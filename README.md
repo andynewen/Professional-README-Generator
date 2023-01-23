@@ -9,13 +9,12 @@
 
 ## Overview
 
+Install the modules to run the inquirer.
 
-* This is the link to the live demo of the website - 
-
-## Screenshots
+## Screenshot
 <img width="1080" src="./images/code screenshot.png">
 
-## Video Demo
+## Video Demo 
 https://www.youtube.com/watch?v=RBtSj-dFLrM
 
 ### Built With
