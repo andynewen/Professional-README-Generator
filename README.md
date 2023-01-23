@@ -13,7 +13,7 @@
 * This is the link to the live demo of the website - 
 
 ## Screenshots
-<img width="1080" src="./images/codescreenshot.png">
+<img width="1080" src="./images/code-screenshot.png">
 
 ## Video Demo
 https://www.youtube.com/watch?v=RBtSj-dFLrM
