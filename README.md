@@ -1,51 +1,46 @@
-# hello world
-  ## Table Of Contents 
-    * [Description](#description)
-    * [Installation](#installation) 
-    * [Usage](#usage) 
-    * [License](#license) 
-    * [Contribution](#contribution)
-    * [Testing](#testing)
-    * [Questions](#questions)
-  ## Visual Presentation
- 
-   
-  ## Description
-    
-  ## Installation
-    windows
-  ## Usage
-    windows
-  ## License 
-    ![github license](https://img.shields.io/badge/license-MIT-blueviolet.png) 
-    
- For license link, please check at (https://choosealicense.com/licenses/mit/#)
+# Professional README Generator
 
-    
-  ## License
-  This project is licensed under the MIT license.
-  Copyright (c) [year] [fullname]
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to deal
-  in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-  SOFTWARE.
-  
-  ## Contribution
-    andynewen
-  ## Test
-    
-  ## Questions
-    * For further information, please send email to nguyenandy1@hotmail.com
-    * Check for details on Github at [andynewen](https://github.com/andynewen)
-  
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+
+## Overview
+
+
+* This is the link to the live demo of the website - 
+
+## Screenshots
+<img width="1080" src="">
+
+### Built With
+
+* Javascript
+* Node
+
+## Features
+
+Here is the Acceptance Criteria for this weeks Challenge.
+
+```md
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
+```
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/andy-nguyen-b5b356256/
